@@ -74,6 +74,7 @@
 
 | Project | Tech | Description |
 |---|---|---|
+| 🧪 **Chemical Orchestrato**r | LangGraph · FastAPI · Python · Redis | Event-driven agentic framework for autonomous multi-agent coordination and stateful workflow balancing |
 | 🏥 **HealthConnect** | Next.js · LLMs · Real-time APIs | AI health dashboard · AQI for 1000+ cities · LLM medical assistant |
 | 🔬 **Developer Research Agent** | LangGraph · Qdrant · Groq · Tavily | Multi-stage AI research agent with persistent memory & dual-mode loops |
 | 🎨 **Adobe CV Builder (MCP)** | Adobe CC APIs · MCP Server · Node.js | Natural language CV generation inside Adobe Express via MCP bridge |
@@ -110,7 +111,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/srishti-mishra" target="_blank">
+  <a href="https://linkedin.com/in/srishtimishra1806" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:43srishtimishra@gmail.com">
